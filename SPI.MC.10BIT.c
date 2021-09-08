@@ -2,7 +2,7 @@
  * SPI.MC.10BIT.c
  *
  * Created: 23-02-2020 13:46:08
- * Author : apoorv
+ * Author : Devansh
  */ 
 /*
 //MASTER : TRANSMIT
