@@ -2,7 +2,7 @@
  * ADC_Polling.c
  *
  * Created: 26-01-2020 16:18:40
- * Author : apoor
+ * Author : Devansh
  */ 
 
 #define F_CPU 1000000UL
