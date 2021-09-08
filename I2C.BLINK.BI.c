@@ -2,7 +2,7 @@
  * I2C.BLINK.BI.c
  *
  * Created: 01-03-2020 16:50:56
- * Author : Apoorv
+ * Author : Devansh
  */ 
 
 //MASTER
