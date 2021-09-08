@@ -2,7 +2,7 @@
  * ADC_Interrupts.c
  *
  * Created: 26-01-2020 18:38:57
- * Author : apoor
+ * Author : Devansh
  */ 
 #include <avr/io.h>
 #include <avr/interrupt.h>
