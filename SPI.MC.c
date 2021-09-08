@@ -2,7 +2,7 @@
  * SPI.MC.c
  *
  * Created: 22-02-2020 18:55:50
- * Author : apoorv
+ * Author : Devansh
  */ 
 
 //MASTER : TRANSMIT 
