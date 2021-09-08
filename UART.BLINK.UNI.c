@@ -2,7 +2,7 @@
  * UART.BLINK.UNI.c
  *
  * Created: 03-02-2020 17:27:48
- * Author : apoor
+ * Author : Devansh
  */ 
 //RECEIVE
 #include <avr/io.h>
