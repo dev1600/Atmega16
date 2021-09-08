@@ -2,7 +2,7 @@
  * SPI.BLINK.MULTI_SLAVE.c
  *
  * Created: 05-03-2020 16:40:13
- * Author : Apoorv
+ * Author : Devansh
  */ 
 /*
 //MASTER
