@@ -2,7 +2,7 @@
  * SPI.BLINK.BI.c
  *
  * Created: 19-02-2020 19:53:54
- * Author : apoorv
+ * Author : Devansh
  */ 
 
 //MASTER
