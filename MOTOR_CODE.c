@@ -2,7 +2,7 @@
  * Motor_Code.c
  *
  * Created: 01-02-2020 19:31:59
- * Author : apoor
+ * Author : Devansh
  */ 
 //Let OCR0 be BL
 //Let OCR2 be BR
