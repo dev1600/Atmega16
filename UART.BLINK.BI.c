@@ -2,7 +2,7 @@
  * UART.BLINK.BI.c
  *
  * Created: 03-02-2020 17:27:48
- * Author : apoor
+ * Author : Devansh
  */ 
 #define F_CPU 1000000UL
 #include <avr/io.h>
