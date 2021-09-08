@@ -2,7 +2,7 @@
  * I2C.BLINK.UNI.c
  *
  * Created: 27-02-2020 10:42:23
- * Author : Apoorv
+ * Author : Devansh
  */ 
 
 //MASTER
