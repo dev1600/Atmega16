@@ -2,7 +2,7 @@
  * SPI.BLINK.UNI.c
  *
  * Created: 08-02-2020 19:03:44
- * Author : apoor
+ * Author : Devansh
  */ 
 
 //MASTER
