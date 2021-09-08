@@ -2,7 +2,7 @@
  * UART.MC10BIT.c
  *
  * Created: 03-02-2020 19:51:07
- * Author : apoor
+ * Author : Devansh
  */ 
 //TRANSMIT
 #define F_CPU 1000000UL
