@@ -2,7 +2,7 @@
  * UART.MC.c
  *
  * Created: 03-02-2020 19:51:07
- * Author : apoor
+ * Author : Devansh
  */ 
 //RECEIVE
 //Let OCR0 be BL
